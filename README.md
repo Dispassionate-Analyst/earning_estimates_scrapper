@@ -1,0 +1,1 @@
+This tool scrapes earning estimates, revenue estimates, historical earnings, and historical revenue from Yahoo Finance, all for free. The data is then stored in Excel on your local drive.  Hope you find it useful.
