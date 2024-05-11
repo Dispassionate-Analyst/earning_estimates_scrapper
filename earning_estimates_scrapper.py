@@ -1,6 +1,4 @@
 
-# project completed
-# this scrapper scrapes earnings and revenue estimates from yahoo finance as well as historical earnings and revenues
 
 import requests
 from bs4 import BeautifulSoup
