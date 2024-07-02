@@ -1,11 +1,17 @@
 This tool scrapes earning estimates, revenue estimates, historical earnings, and historical revenue from Yahoo Finance, all for free. The data is then stored in Excel on your local drive.  Hope you find it useful.
 
 # Use Case 
-Are you a fundamental analyst without access to a Bloomberg terminal? Do you want to compare how richly a stock is trading compared to its peers? For example, all else being constant, do you want to know if it's cheaper to invest in NVDA or AAPL for the same return on investment based on Wall Street earnings consensus? If yes, then you must have struggled with manually inputting revenue and earnings estimates information.
+Are you a fundamental analyst without access to a Bloomberg terminal? 
+
+Do you want to compare how richly a stock is trading compared to its peers? For example, all else being constant, do you want to know if it's cheaper to invest in NVDA or AAPL for the same return on investment based on Wall Street earnings consensus? 
+
+If yes, then you must have struggled with manually inputting revenue and earnings estimates information.
+
 This Python script pulls analysts’ estimates (both revenue and earnings) from Yahoo Finance and compiles the output into an Excel file.
 
 # Sample Output: 
 ![image](https://github.com/Dispassionate-Analyst/earning_estimates_scrapper/assets/164734048/ec9fe697-6dd4-4265-aa94-a392fc4596c0)
+
 Output size less than 10kb and took less than 1 sec to run 
 
 Results: 
