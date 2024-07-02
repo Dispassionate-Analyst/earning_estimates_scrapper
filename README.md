@@ -2,8 +2,6 @@
 
 This code is for informational and educational purposes only and does not constitute investment advice. Users should conduct their own research and consult with a professional financial advisor before making any investment decisions. The author is not responsible for any investment actions taken based on the information provided in and from this repository.
 
-This tool scrapes earning estimates, revenue estimates, historical earnings, and historical revenue from Yahoo Finance, all for free. The data is then stored in Excel on your local drive.  Hope you find it useful.
-
 # Use Case 
 Are you a fundamental analyst without access to a Bloomberg terminal? 
 
