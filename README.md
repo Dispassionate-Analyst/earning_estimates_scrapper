@@ -19,3 +19,7 @@ Results:
 
 # Constraints: 
 Yahoo Finance has a limit of 60 GET requests per minute and 360 GET requests per hour. The upcoming update will ensure requests stay within the limit; instead of encountering an error, the script will pause for a minute before continuing to bypass said limits by Yahoo Finance.
+
+# Disclaimer: 
+
+This code is for informational and educational purposes only and does not constitute investment advice. The projects uploaded on this GitHub repository are intended to assist and provide information. Users should conduct their own research and consult with a professional financial advisor before making any investment decisions. The author is not responsible for any investment actions taken based on the information provided in this repository.
